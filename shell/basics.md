@@ -3,6 +3,7 @@
 1. Find file path by name
 ```
 find . "*name*" -print
+find . -name '*.py'
 ```
 
 2. Find file name by string inside that file 
